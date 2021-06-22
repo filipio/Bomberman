@@ -1,0 +1,829 @@
+fileFormatVersion: 2
+guid: 6fdd9b322b9e68d4fa95e1b0c831ac0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4433389682521042470
+    second: powerups_bomberman_0
+  - first:
+      213: 5799372871611910585
+    second: powerups_bomberman_1
+  - first:
+      213: -951792492967354283
+    second: powerups_bomberman_2
+  - first:
+      213: 8669236358226755771
+    second: powerups_bomberman_3
+  - first:
+      213: 5464882424401789714
+    second: powerups_bomberman_4
+  - first:
+      213: -8201804737336821771
+    second: powerups_bomberman_5
+  - first:
+      213: 5561242800837848868
+    second: powerups_bomberman_6
+  - first:
+      213: -7413681386124400586
+    second: powerups_bomberman_7
+  - first:
+      213: 6632257362526192750
+    second: powerups_bomberman_8
+  - first:
+      213: 4693951660455226426
+    second: powerups_bomberman_9
+  - first:
+      213: 7818420141815135372
+    second: powerups_bomberman_10
+  - first:
+      213: -8267778457052079099
+    second: powerups_bomberman_11
+  - first:
+      213: -426449330388249912
+    second: powerups_bomberman_12
+  - first:
+      213: -3581495088271221354
+    second: powerups_bomberman_13
+  - first:
+      213: 8744445828721960520
+    second: powerups_bomberman_14
+  - first:
+      213: -1002634155278276698
+    second: powerups_bomberman_15
+  - first:
+      213: 6090684274313861844
+    second: powerups_bomberman_16
+  - first:
+      213: 7062451922031524463
+    second: powerups_bomberman_17
+  - first:
+      213: 3836241966242290581
+    second: powerups_bomberman_18
+  - first:
+      213: 1224207633149261032
+    second: powerups_bomberman_19
+  - first:
+      213: 7677523818138796344
+    second: powerups_bomberman_20
+  - first:
+      213: -5096858199531190557
+    second: powerups_bomberman_21
+  - first:
+      213: -3162555211150600041
+    second: powerups_bomberman_22
+  - first:
+      213: 1328596239518598166
+    second: powerups_bomberman_23
+  - first:
+      213: -5859298365164025381
+    second: powerups_bomberman_24
+  - first:
+      213: -4893290887726635520
+    second: powerups_bomberman_25
+  - first:
+      213: 5656937722388488332
+    second: powerups_bomberman_26
+  - first:
+      213: -4010371538485741337
+    second: powerups_bomberman_27
+  - first:
+      213: -1600849825795869405
+    second: powerups_bomberman_28
+  - first:
+      213: 5885403887595023764
+    second: powerups_bomberman_29
+  - first:
+      213: 6772558501487284266
+    second: powerups_bomberman_30
+  - first:
+      213: 8735640666571111342
+    second: powerups_bomberman_31
+  - first:
+      213: 981947070722173060
+    second: powerups_bomberman_32
+  - first:
+      213: 5960728435212209817
+    second: powerups_bomberman_33
+  - first:
+      213: 6245658393446160679
+    second: powerups_bomberman_34
+  - first:
+      213: -3254727461846699723
+    second: powerups_bomberman_35
+  - first:
+      213: -6487247103923762884
+    second: powerups_bomberman_36
+  - first:
+      213: -2475867019938444154
+    second: powerups_bomberman_37
+  - first:
+      213: 8390675573763079135
+    second: powerups_bomberman_38
+  - first:
+      213: 1167797314540310870
+    second: powerups_bomberman_39
+  - first:
+      213: 3886276614529440973
+    second: powerups_bomberman_40
+  - first:
+      213: 6058913357686102101
+    second: powerups_bomberman_41
+  - first:
+      213: -4010314762465631824
+    second: powerups_bomberman_42
+  - first:
+      213: -2737216575943448416
+    second: powerups_bomberman_43
+  - first:
+      213: 331738770758735671
+    second: powerups_bomberman_44
+  - first:
+      213: 283223123003157377
+    second: powerups_bomberman_45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: powerups_bomberman_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e6c895d60968d30800000000000000
+      internalID: 4433389682521042470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9077c76e28b7050800000000000000
+      internalID: 5799372871611910585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5502ccc35cd8ac2f0800000000000000
+      internalID: -951792492967354283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0c10649805f4870800000000000000
+      internalID: 8669236358226755771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2138ebd5c9927db40800000000000000
+      internalID: 5464882424401789714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f73ce1eb065d2e80800000000000000
+      internalID: -8201804737336821771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f63a5dcd08d2d40800000000000000
+      internalID: 5561242800837848868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63821260f005d1990800000000000000
+      internalID: -7413681386124400586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64c7589ee28a0c50800000000000000
+      internalID: 6632257362526192750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ce9426a24442140800000000000000
+      internalID: 4693951660455226426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c76a9f1bb908c60800000000000000
+      internalID: 7818420141815135372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c98c14c43f24d80800000000000000
+      internalID: -8267778457052079099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2518be792f41af0800000000000000
+      internalID: -426449330388249912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d99ca5139fb4ec0800000000000000
+      internalID: -3581495088271221354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8466e92b6238a5970800000000000000
+      internalID: 8744445828721960520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7e6f64c8de512f0800000000000000
+      internalID: -1002634155278276698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da1981e315768450800000000000000
+      internalID: 6090684274313861844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ab6f7ca9ed20260800000000000000
+      internalID: 7062451922031524463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b51563eb11d3530800000000000000
+      internalID: 3836241966242290581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4fe213b524df010800000000000000
+      internalID: 1224207633149261032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83183ce3c3b0c8a60800000000000000
+      internalID: 7677523818138796344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6086ac8725449b0800000000000000
+      internalID: -5096858199531190557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 24
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798dec89ac85c14d0800000000000000
+      internalID: -3162555211150600041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 24
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6140d6a9d3f107210800000000000000
+      internalID: 1328596239518598166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 24
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd90f574e279faea0800000000000000
+      internalID: -5859298365164025381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006e5660dd9871cb0800000000000000
+      internalID: -4893290887726635520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80297303ea718e40800000000000000
+      internalID: 5656937722388488332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups_bomberman_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e87837655c4858c0800000000000000
+      internalID: -4010371538485741337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
